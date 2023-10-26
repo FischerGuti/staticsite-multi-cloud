@@ -1,5 +1,5 @@
 variable "bucket_name" {
-  default = "fishinhobuquetes32"
+  default = "Coringuinhavaiperder232"
 }
 
 variable "website_endpoint" {

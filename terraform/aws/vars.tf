@@ -1,5 +1,5 @@
 variable "bucket_name" {
-  default = "Coringuinhavaiperder232"
+  default = "coringuinhavaiperder232"
 }
 
 variable "website_endpoint" {
